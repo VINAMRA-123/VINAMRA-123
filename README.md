@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in TCS <br>🌱 I’m mern developer ,machine learning enthusiast and compititive coder<br>⚡ Fun fact: I am Electrical engineer
+🔭 I’m currently working in TCS <br>🌱 I’m springboot developer ,machine learning enthusiast and compititive coder<br>⚡ Fun fact: I am Electrical engineer
 
 
 ## 🌐 Socials:
